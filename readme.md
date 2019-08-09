@@ -1,10 +1,4 @@
-## Laravel 5.6 + Vue.js - Simple CRUD Demo
-
-Simple project showing how Laravel works with Vue.js.
-
-One CRUD operation to manage Companies - create/edit/update/delete.
-
-![Laravel + Vue.js](https://laraveldaily.com/wp-content/uploads/2018/11/laravel-vue.png)
+## TADD calculator, based on sample application "Laravel 5.6 + Vue.js - Simple CRUD Demo" by DailyLaravel
 
 ---
 
@@ -28,10 +22,4 @@ Please use and re-use however you want.
 
 ---
 
-## More from our LaravelDaily Team
-
-- Read our [Daily Blog with Laravel Tutorials](https://laraveldaily.com)
-- FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
-- Check out our adminpanel generator QuickAdminPanel: [Laravel version](https://quickadminpanel.com) and [Vue.js version](https://vue.quickadminpanel.com)
-- Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
-- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
+## CREDITS to DailyLaravel team for providing template for this repo
